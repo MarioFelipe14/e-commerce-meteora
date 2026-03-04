@@ -7,7 +7,7 @@ Uma aplicação que simula um e-commerce de produtos, onde contem a página inic
 
 ## 🔨 Funcionalidades do projeto
 
-O aplicativo consiste em duas páginas principais: a primeira lista produtos e categorias, enquanto a segunda exibe detalhes específicos de cada produto. Atualmente, esta última é uma página gerada no lado do servidor, utilizando rotas dinâmicas. Até agora, os produtos foram simulados de maneira básica. Contudo, ao longo do curso, implementaremos estratégias para gerar páginas estáticas, consumindo API externa.
+O aplicativo consiste em duas páginas principais: a primeira lista produtos e categorias, enquanto a segunda exibe detalhes específicos de cada produto. Esta última era uma página gerada no lado do servidor, utilizando rotas dinâmicas. Os produtos foram simulados de maneira básica. Contudo, implementei estratégias para gerar páginas estáticas, consumindo API externa.
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
@@ -18,9 +18,9 @@ As principais técnicas e tecnologias abordadas são:
 - `React Components`: Componentes reutilizáveis.
 - `Web server`: Como hospedar o site.
 
-## 🎯 Desafios do Curso
+## 🎯 Desafios do projeto
 
-- O principal desafio será converter as rotas dinâmicas da página de detalhes do produto em páginas estáticas exportadas.
+- O principal desafio foi converter as rotas dinâmicas da página de detalhes do produto em páginas estáticas exportadas.
 
 ## 🛠️ Abrir e rodar o projeto
 
@@ -31,6 +31,3 @@ Após baixar o projeto, você pode abrir com seu editor de código preferido. Si
 - Inicie o servidor de desenvolvimento com `yarn dev`.
 - Acesse `http://localhost:3000` no navegador para ver o projeto.
 
-## 📚 Mais Informações do Curso
-
-Interessado em aprofundar seus conhecimentos em Next.js e SSR? [Acesse o curso]()!
