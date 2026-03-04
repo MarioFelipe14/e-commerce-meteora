@@ -1,4 +1,3 @@
-![Imagem de capa escrito  Next.js: gerando site estático com SSG, maximizando a performance com SSG](./thumbnail.png)
 
 ![](https://img.shields.io/github/license/alura-cursos/android-com-kotlin-personalizando-ui)
 
